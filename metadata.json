@@ -1,0 +1,7 @@
+{
+  "name": "DocuClear",
+  "description": "Understand any legal document in plain English. AI-powered analysis for contracts, leases, and agreements.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
